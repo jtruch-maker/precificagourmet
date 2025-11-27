@@ -1,0 +1,5 @@
+{
+  "name": "Precificador Inteligente",
+  "description": "A smart pricing tool for food entrepreneurs using specific cost formulas and Gemini AI for impact analysis and margin optimization.",
+  "requestFramePermissions": []
+}
